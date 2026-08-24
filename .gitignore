@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+*.zip
+*.mp4
+.next
+tsconfig.tsbuildinfo
+.env*
+!.env.example
